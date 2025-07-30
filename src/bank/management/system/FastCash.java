@@ -124,8 +124,8 @@ public class FastCash extends JFrame implements ActionListener {
                 String message = "₹" + withdrawAmount + " has been debited from your account.\nAvailable Balance: ₹" + updatedBalance;
 
      // Send WhatsApp and SMS notifications
-                WhatsAppNotification.sendWhatsApp("+918872641349", message);
-                WhatsAppNotification.sendSMS("+918872641349", message);
+                WhatsAppNotification.sendWhatsApp("+9188726_____", message);
+                WhatsAppNotification.sendSMS("+9188726____", message);
              
             }catch (Exception E ){
                 E.printStackTrace();
