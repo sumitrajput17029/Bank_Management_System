@@ -114,8 +114,8 @@ public class Deposit extends JFrame implements ActionListener {
                 	// Send WhatsApp/SMS Notification
                 	String message = "₹" + amount + " has been credited to your account.\nAvailable Balance: ₹" + updatedBalance;
                 	
-                	 WhatsAppNotification.sendWhatsApp("+918872641349", message);
-                	 WhatsAppNotification.sendSMS("+918872641349", message);
+                	 WhatsAppNotification.sendWhatsApp("+91887264____", message); 
+                	 WhatsAppNotification.sendSMS("+91887264____", message);
 
                     // Back to main menu
                     setVisible(false);
