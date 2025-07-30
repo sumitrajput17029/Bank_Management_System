@@ -119,8 +119,8 @@ public class Withdrawal extends JFrame implements ActionListener {
                     int updatedBalance = balance - withdrawAmount;
                     String message = "₹" + withdrawAmount + " has been debited from your account.\nAvailable Balance: ₹" + updatedBalance;
 
-                  WhatsAppNotification.sendWhatsApp("+918872641349", message);
-                  WhatsAppNotification.sendSMS("+918872641349", message);
+                  WhatsAppNotification.sendWhatsApp("+91887264___", message);
+                  WhatsAppNotification.sendSMS("+91887264___", message);
       
                     setVisible(false);
                     new main_class(pin);
