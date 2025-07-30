@@ -64,8 +64,8 @@ public class BalanceEnquriy extends JFrame implements ActionListener {
         // Send  Notification
             String message = "Your current account balance is ₹" + balance;
         
-            WhatsAppNotification.sendWhatsApp("+918872641349", message);
-            WhatsAppNotification.sendSMS("+918872641349", message);   
+            WhatsAppNotification.sendWhatsApp("+9188726___-", message);
+            WhatsAppNotification.sendSMS("+9188726_____", message);   
             
         }catch (Exception e){
             e.printStackTrace();
