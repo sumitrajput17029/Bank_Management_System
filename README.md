@@ -1,4 +1,4 @@
-# Bank_Management_System 💳
+# Bank_Management_System ATM 💳
 Java-based Bank Management System with WhatsApp/Gmail Notification Integration.
 
 This is a **Java-based Bank Management System** integrated with a **MySQL database**. It features a user-friendly **Swing GUI** and includes **real-time WhatsApp/SMS notifications** powered by the **Twilio API**.
