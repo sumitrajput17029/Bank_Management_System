@@ -252,8 +252,6 @@ Handled by: MiniStatement.java
 🔼 Helps users quickly verify recent account activity.
 
 🔼 Optionally integrates with WhatsApp to send mini statement on demand.
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 📌 Conclusion
 This Bank Management System project demonstrates a real-time simulation of banking operations such as deposits, withdrawals, balance inquiries, mini statements, and more. The integration of WhatsApp notifications using Twilio API adds a modern touch for user interaction and alerting.
